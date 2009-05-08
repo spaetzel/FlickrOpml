@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="ftp://ftp.spaetzel.com/flickropml.spaetzel.com/web/content/">
+    <file relUrl="bin/FlickrOpml.dll" publishTime="12/17/2008 14:35:47" />
+    <file relUrl="bin/FlickrOpml.pdb" publishTime="12/17/2008 14:35:47" />
+    <file relUrl="Default.aspx" publishTime="12/17/2008 14:35:43" />
+    <file relUrl="style.css" publishTime="12/17/2008 14:32:48" />
+    <file relUrl="Web.config" publishTime="12/17/2008 11:21:07" />
+    <file relUrl="Opml.ashx" publishTime="12/17/2008 13:41:23" />
+  </publishTarget>
+</publishData>

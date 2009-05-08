@@ -1,0 +1,10 @@
+C:\Inetpub\wwwroot\FlickrOpml\FlickrOpml\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\FlickrOpml\FlickrOpml\bin\FlickrOpml.dll
+C:\Inetpub\wwwroot\FlickrOpml\FlickrOpml\bin\FlickrOpml.pdb
+C:\Inetpub\wwwroot\FlickrOpml\FlickrOpml\obj\Debug\FlickrOpml.dll
+C:\Inetpub\wwwroot\FlickrOpml\FlickrOpml\obj\Debug\FlickrOpml.pdb
+C:\Personal\FlickrOpml\FlickrOpml\obj\Debug\ResolveAssemblyReference.cache
+C:\Personal\FlickrOpml\FlickrOpml\obj\Debug\FlickrOpml.dll
+C:\Personal\FlickrOpml\FlickrOpml\bin\FlickrOpml.dll
+C:\Personal\FlickrOpml\FlickrOpml\bin\FlickrOpml.pdb
+C:\Personal\FlickrOpml\FlickrOpml\obj\Debug\FlickrOpml.pdb

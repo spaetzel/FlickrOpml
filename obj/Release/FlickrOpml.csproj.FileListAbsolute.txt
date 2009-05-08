@@ -1,0 +1,5 @@
+C:\Personal\FlickrOpml\FlickrOpml\bin\FlickrOpml.dll
+C:\Personal\FlickrOpml\FlickrOpml\bin\FlickrOpml.pdb
+C:\Personal\FlickrOpml\FlickrOpml\obj\Release\ResolveAssemblyReference.cache
+C:\Personal\FlickrOpml\FlickrOpml\obj\Release\FlickrOpml.dll
+C:\Personal\FlickrOpml\FlickrOpml\obj\Release\FlickrOpml.pdb
